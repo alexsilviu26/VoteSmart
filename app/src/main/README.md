@@ -1,6 +1,4 @@
-    Nicolăescu Alexandru-Valentin - 324CB
 
-                        README Tema 1
             VoteSmart – Platformă de Votare Online
 
 
